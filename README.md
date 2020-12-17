@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with finding resources on learning new stuff.
 - 💬 Ask me about whatever you might want to know about me.
 - 📫 How to reach me: https://www.linkedin.com/in/pa-perz/
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: I have fell asleep in more bizarre places than I care to admit.
+- 😄 Pronouns: he / him.
+- ⚡ Fun fact: As a kid, I wanted to be an archaeologist.
