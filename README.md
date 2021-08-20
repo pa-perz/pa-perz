@@ -6,3 +6,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/pa-perz/
 - 😄 Pronouns: he / him.
 - ⚡ Fun fact: As a kid, I wanted to be an archaeologist.
+
+[![pa-perz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pa-perz)](https://github.com/pa-perz/github-readme-stats)
+
