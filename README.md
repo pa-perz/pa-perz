@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey 👋
 
 [![pa-perz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pa-perz)](https://github.com/pa-perz/github-readme-stats)
 
