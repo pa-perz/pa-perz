@@ -2,8 +2,9 @@
 
 [![pa-perz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pa-perz)](https://github.com/pa-perz/github-readme-stats)
 
-- 🔭 I’m currently working at AYESA S.L. as a Backend Developer.
-- 🌱 I’m currently improving my knowledge in Go (then I plan to learn TypeScript and Kotlin).
+- 🔭 I work at AYESA S.L. as a Backend Developer.
+- 🌱 I’m currently improving my knowledge in Reactive Java and Go.
+- ⭐ I want to learn more about TypeScript, Kotlin, Docker, Kubernetes, and AWS.
 - 📫 How to reach me: https://www.linkedin.com/in/pa-perz/
 
 ## 🦦 Tools
