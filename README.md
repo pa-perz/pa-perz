@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/pa_perz" target="blank"><img src="https://img.shields.io/twitter/follow/pa_perz?logo=twitter&style=for-the-badge" alt="pa_perz" /></a> </p>
 
-- 🌱 I’m currently learning **Reactive Programming, Go, Docker, and Kubernetes**
+- 🌱 I’m currently learning **Kotlin, Go, Docker, and Kubernetes**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pa-perz/](https://www.linkedin.com/in/pa-perz/)
 
